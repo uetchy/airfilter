@@ -1,0 +1,14 @@
+# Proxyする方法
+## Cloud proxy(.proc経由)
+- レイテンシが不安
+- Everywhere, Everydevice
+
+## Mac mini server(as WiFi router)
+- わざわざ切り替えるコストがある
+- pacを配信出来る
+- Everydevice
+
+## Local proxy(HTTP proxy all || /etc/hosts partial proxy)
+- GlimmerBlockerが既にある
+- pacはローカルから参照出来ない
+- Everywhere

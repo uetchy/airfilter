@@ -1,0 +1,6 @@
+[submodule "node-adblock-proxy"]
+	path = node-adblock-proxy
+	url = https://github.com/shouko/node-adblock-proxy.git
+[submodule "node-http-proxy"]
+	path = node-http-proxy
+	url = https://github.com/nodejitsu/node-http-proxy.git
